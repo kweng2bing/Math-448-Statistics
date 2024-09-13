@@ -25,6 +25,7 @@
 
 ## Bias and Variability
     ![alt text](image.png)
+    
 
 * Good Estimator: Low bias and Low Variance
 * $$Bias(\hat{\theta}) = E[\hat{\theta}] - \theta $$
