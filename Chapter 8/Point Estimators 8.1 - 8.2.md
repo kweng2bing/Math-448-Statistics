@@ -24,12 +24,11 @@
         * $\hat{\theta}$ has a distribution
 
 ## Bias and Variability
-    ![alt text](image.png)
-    
+
+![alt text](image.png)   
 
 * Good Estimator: Low bias and Low Variance
 * $$Bias(\hat{\theta}) = E[\hat{\theta}] - \theta $$
     * An estimator, $\hat{\theta}$, is **unbiased** if $Bias(\hat{\theta}) = 0$ or $E[\hat{\theta}] = \theta$
 
 * Variance: more stable performance
-
