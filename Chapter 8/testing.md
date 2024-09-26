@@ -24,7 +24,9 @@ Experiments
  $$= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $$ 
 
 New
-$\bar{Y}_1 - \bar{Y}_2 $ 
+$\bar{Y}_1 - \bar{Y}_2 $
+
+
  $ \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $ 
 
 
