@@ -11,7 +11,7 @@
 
 
 Experiments
-$$ \bar{Y}\_1 - \bar{Y} \_2 $$
+$$ \bar{Y}\_{1} - \bar{Y}\_{2} $$
 
 $$= \frac{1}{n\_{1}} \sum\limits_{i=1}^{n\_{1}} Y\_{i}^{(1)} - \frac{1}{n\_{2}} \sum\limits_{i=1}^{n\_{2}} Y\_{i}^{(2)} $$ 
 
