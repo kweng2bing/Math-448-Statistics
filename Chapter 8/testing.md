@@ -8,18 +8,5 @@
 
 
 Experiments
-$$ \bar{Y}\_{1} - \bar{Y}\_{2} $$
 
-$$= \frac{1}{n\_{1}} \sum\limits_{i=1}^{n\_{1}} Y\_{i}^{(1)} - \frac{1}{n\_{2}} \sum\limits_{i=1}^{n\_{2}} Y\_{i}^{(2)} $$ 
-
-$$ \bar{Y} _1 - \bar{Y} _2 $$
-
-$$= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $$ 
-
-New
-
-$$ \bar{Y} \_{1} - \bar{Y}\_{2} = \frac{1}{n\_{1}} \sum\limits_{i=1}^{n\_{1}} Y\_{i}^{(1)} - \frac{1}{n\_{2}} \sum\limits_{i=1}^{n\_{2}} Y\_{i}^{(2)} $$ 
-
-$$\sigma_{\hat{p}_{1} - \hat{p}_{2}}^2 = \frac {p_{1}(1 - p_{1})}{n_{1}} + \frac {p_{2}(1 - p_{2})}{n_{2}}$$
-
-$$\sqrt{ \frac{ \sigma^{2}\_{1} } { n\_{1} } + \frac{ \sigma\_{2}^{2}}{ n\_{2} } } $$
+$$ \frac{ \sigma^{2}\_{1} }{ n\_{1} } + \frac{ \sigma\_{2}^{2} }{ n\_{2} } $$
