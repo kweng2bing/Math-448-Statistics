@@ -51,7 +51,7 @@ $$ \geq 1 -$$
 
 stag2
 
-$$ \frac{ \sigma^{2}_{\hat{\theta}} } { (2\sigma_{\hat{\theta}})^{2}  }$$
+$$ \frac{ (\sigma^{2}_{\hat{\theta}}) } { ((2\sigma_{\hat{\theta}})^{2})  }$$
   
 Additional 
 
