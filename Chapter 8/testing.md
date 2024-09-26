@@ -12,7 +12,7 @@
 
 ## What
 
-$\bar{Y} _{1} - \bar{Y} _{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$
+$\bar{Y} _{1} - \bar{Y}_{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$
 
 test 2
 
@@ -28,3 +28,11 @@ test 4
 $\hat{ \theta_{1}} - \hat{p_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
 
 $\hat{ \theta_{1}} - \hat{\theta_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
+
+$\hat{ \mu_{1}} - \hat{\mu_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
+
+ok
+
+$\bar{Y}_{1} - \bar{Y}_{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$
+
+$$\bar{Y}_{1} - \bar{Y}_{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$$
