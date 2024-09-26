@@ -51,11 +51,7 @@ $$ \geq 1 -$$
 
 stag2
 
-$$ \sigma^{2}_{\hat{\theta}} $$
-
-stage3
-
-$$ (2\sigma_{\hat{\theta}})^{2} $$
+$$ \frac{ \sigma^{2}_{\hat{\theta}} } { (2\sigma_{\hat{\theta}})^{2}  }$$
   
 Additional 
 
