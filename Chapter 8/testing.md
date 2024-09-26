@@ -7,9 +7,9 @@
 
  Part
  
- $\frac{\sigma^{2}_{1}}{n_{1}}$
+ $ \frac{ \sigma^{2}_{1} }{ n_{1} }$
  
- $ \frac{\sigma_{2}^{2}}{n_{2}}$
+ $$ \frac{ \sigma_{2}^{2} }{ n_{2} }$$
  
  Part
  
