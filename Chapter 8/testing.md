@@ -49,10 +49,13 @@ stage1
 
 $$ \geq 1 -$$
 
-stag2
+stage2
 
-$$ \frac{ ((\sigma^{2})_{\hat{\theta}}) } { ((2\sigma_{\hat{\theta}})^{2})  }$$
-  
+```math
+\frac{ ((\sigma^{2})_{\hat{\theta}}) } { ((2\sigma_{\hat{\theta}})^{2})  }
+  ```
+
+
 Additional 
 
 $$\sigma^{2}_{\hat{\theta}}$$
