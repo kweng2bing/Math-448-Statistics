@@ -4,7 +4,7 @@
 
 | Target Parameter $\theta$ | Sample Size(s) | Point Estimator $\hat{\theta}$ | $E(\hat{\theta})$ |  $Var(\hat{\theta})$ | Standard Error $\sigma_{\hat{\theta}}$ |
 | :--- |  :--- | :--- | :--- | :--- | :--- |
-| $\mu_{1} - \mu_{2}$ | $n_{1} \hspace{1mm} n_{2}$ | $$ \bar{Y}\_{1} - \bar{Y}\_{2} = \frac{1}{n\_{1}} \sum\limits_{i=1}^{n\_{1}} Y\_{i}^{(1)} - \frac{1}{n\_{2}} \sum\limits_{i=1}^{n\_{2}} Y\_{i}^{(2)} $$ | $\mu_{1} - \mu_{2}$ | $$ \frac{ \sigma^{2}_{1}}{n_{1}} + \frac{\sigma_{2}^{2}}{n_{2}} $$ | $$\sqrt{ \frac{ \sigma^{2}\_{1} } { n\_{1} } + \frac{ \sigma\_{2}^{2}}{ n\_{2} } } $$ |
+| $\mu_{1} - \mu_{2}$ | $n_{1} \hspace{1mm} n_{2}$ | $$ \bar{Y}\_{1} - \bar{Y}\_{2} = \frac{1}{n\_{1}} \sum\limits_{i=1}^{n\_{1}} Y\_{i}^{(1)} - \frac{1}{n\_{2}} \sum\limits_{i=1}^{n\_{2}} Y\_{i}^{(2)} $$ | $\mu_{1} - \mu_{2}$ | $$ \frac{ \sigma^{2}\_{1}}{n\_{1}} + \frac{\sigma\_{2}^{2}}{n\_{2}} $$ | $$\sqrt{ \frac{ \sigma^{2}\_{1} } { n\_{1} } + \frac{ \sigma\_{2}^{2}}{ n\_{2} } } $$ |
 
 
 Experiments
