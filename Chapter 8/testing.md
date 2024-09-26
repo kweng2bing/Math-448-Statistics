@@ -14,7 +14,7 @@ Experiments
 
  $$\bar{Y}_{1} - \bar{Y}_{2} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $$ 
 
-  $$ \bar{Y}^{}_1 - \bar{Y}^{}_2 = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $$ 
+  $$ \bar{Y}_1 - \bar{Y}_2 = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $$ 
 
  makeing this work $ \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)} $
 
