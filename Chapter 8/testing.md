@@ -45,8 +45,17 @@ $$\bar{Y}_{1} - \bar{Y}_{2} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(
 More stuff to test
 
 hehe
+stage1
 
-$$\geq 1- \frac{\sigma^{2}_{\hat{\theta}}}{(2\sigma_{\hat{\theta}})^{2}} $$
+$$ \geq 1 -$$
+
+stag2
+
+$$ \sigma^{2}_{\hat{\theta}} $$
+
+stage3
+
+$$ (2\sigma_{\hat{\theta}})^{2} $$
   
 Additional 
 
