@@ -1,7 +1,4 @@
 # Unbiased Point Estimators
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 ## Unbiased Point Estimators $\hat{\theta}$
 
@@ -11,3 +8,23 @@
 | $p$ | $n$ |  $\hat{p} = \frac{1}{n} \sum\limits_{i=1}^{n} Y_{i}$ | $p$ |  $\frac{pq}{n}$ | $\sqrt{\frac{pq}{n}}$ |
 | $\mu_{1} - \mu_{2}$ | $n_{1} \hspace{1mm} n_{2}$ |  $$\bar{Y} _{1} - \bar{Y} _{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$$ | $\mu_{1} - \mu_{2}$ | $$\frac{\sigma^{2}_{1}}{n_{1}} + \frac{\sigma_{2}^{2}}{n_{2}} $$ | $$\sqrt{ \frac{ \sigma^{2}_{1} } { n_{1} } + \frac{ \sigma_{2}^{2}}{ n_{2} } } $$ |
 | $p_{1} - p_{2} $ | $n_{1} \hspace{1mm} n_{2}$ |  $\hat{p_{1}} - \hat{p_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ | $p_{1} - p_{2}$ |  $\frac{p_{1}q_{1}}{n_{1}} + \frac{p_{2}q_{2}}{n_{2}}$ | $\sqrt{\frac{p_{1}q_{1}}{n_{1}} + \frac{p_{2}q_{2}}{n_{2}}}$ |
+
+
+## What
+
+$\bar{Y} _{1} - \bar{Y} _{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$
+
+test 2
+
+$$\bar{Y} _{1} - \bar{Y} _{2}= \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$$
+
+tests 3
+
+$\hat{p_{1}} - \hat{p_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
+
+
+test 4
+
+$\hat{ \theta_{1}} - \hat{p_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
+
+$\hat{ \theta_{1}} - \hat{\theta_{2}} = \frac{1}{n_{1}} \sum\limits_{i=1}^{n_{1}} Y_{i}^{(1)} - \frac{1}{n_{2}} \sum\limits_{i=1}^{n_{2}} Y_{i}^{(2)}$ 
