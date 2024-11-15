@@ -1,0 +1,13 @@
+$Y \sim Binom(n,p)$ where $n$ is known and $p$ is to be estimated
+* MLE for $p$ and $Var(Y) = np(1-p)$ 
+* $\hat{p}_{MLE} $
+* In here $p$ is a Bernoulli trial so $L(p)$ is with respect to Bernoulli instead of Binomial
+
+Step 1: $$L(p) = \binom{n}{y} p^{y} (1-p)^{n-y}$$
+Step 2: $$\log L(p) =  c_{1} + y ln(p) + (n-y) \ln(1-p)$$
+Step 3: $$0 = \frac{d}{dp} \log L(p) = $$
+Step 4: $$\frac{d^{2}}{dp^{2}} \log L(p) $$
+
+$\hat{p} = \frac{Y}{n}$
+
+

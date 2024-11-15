@@ -1,0 +1,42 @@
+CEO of a company claims that customers prefer their product 'A' over the competitior's product 'B'
+
+Let p = be the population proportion that chose product 'A' over 'B'
+
+$H_{0}$: The probability that customer likes product 'A' is 0.5
+$H_{1}$: The probability that customer likes product 'A' is >0.5
+
+$\hat{p} = \frac{3000}{5000}$
+* $\hat{p}$ is a sample parameter and $p$ is population.
+    * Cannot draw conclusion on population paramter using sample parameter.
+        * Even if $\hat{p}= \frac{5000}{5000}$, we cannot conclude $H_{1}$
+        * Sample size also doesn't draw conclusion
+
+
+
+A test statistic is a function of the sample emasuremeent sbased on which we will make the staticial decasion about the hypothesis
+
+TS = \frac{\text{ the estimator - the hypothesized value in} H_{0} }{\text{the standard error of the estimator}}
+
+TS = \frac{\hat{\theta} - \theta_{0}}{SE(\hat{\theta})}
+* Small value : closer to null and support null
+
+* If TS is not in the Reject Rejion, we **fail to reject the null hypothesis** or **do not have evidence to reject**
+> Remark: It is not correct to say we accept the null hypothesis
+H_{0}: \theta = \theta_{0}
+
+
+
+
+
+3 Methods for Hypothesis
+* Reject Region
+* p-value
+* considence interval
+>> All perform hypothesis tetsting
+
+1. What is the decision rule
+* Reason to judge reject/no reject
+* Advantage/Disadvantage for each
+* Difference
+
+|Method | |
