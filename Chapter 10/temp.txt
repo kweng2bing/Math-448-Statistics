@@ -40,3 +40,10 @@ H_{0}: \theta = \theta_{0}
 * Difference
 
 |Method | |
+
+
+
+NP
+* Directly plug in likelyhood function
+\lambda
+* need to get max likelyhood function
